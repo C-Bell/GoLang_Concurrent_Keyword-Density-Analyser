@@ -582,19 +582,55 @@ func parseManager(body string, keyword string) {
 		return finalTable[i].frequency > finalTable[j].frequency
 	})
 
-	for _, word := range finalTable {
-		fmt.Printf("%s, %d\n", word.word, word.frequency)
-	}
+	// Print raw table
+	// for _, word := range finalTable {
+	// 	fmt.Printf("%s, %d\n", word.word, word.frequency)
+	// }
 
 	/* ------------------------------------------------- */
-
-	/* ---------------- Screen Output ------------------ */
 
 	timeAfterSort := time.Now()
 	elapsedPostSort := timeAfterSort.Sub(start)
 	totalTime := elapsedPostSort + elapsedPostProcess
-	// var timePerWord float64
-	// timePerWord = (totalTime)/ workToDo)
+	var timePerWord float64
+	timePerWord = float64(workToDo) / float64(totalTime)
+
+	/* ---------------- File Output ------------------ */
+
+	fmt.Printf("\nPrinting results to results.txt!")
+	responseFile, _ := os.OpenFile("results.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666) // create file if not existing, and append to it. 666 = permission bits rw-/rw-/rw-
+	responseFile.WriteString("\n|---------------------------------------------|")
+	responseFile.WriteString("\n|----------------- Completed! ----------------|")
+	responseFile.WriteString("\n|---------------------------------------------|")
+	responseFile.WriteString(fmt.Sprintf("\n| Search Term: %v                    |", keyword))
+	responseFile.WriteString(fmt.Sprintf("\n|---------------------------------------------|"))
+	responseFile.WriteString(fmt.Sprintf("\n| Number of Parsers: %v                        |", noParsers))
+	responseFile.WriteString(fmt.Sprintf("\n| Total Work to Complete: %v               |", workToDo))
+	responseFile.WriteString(fmt.Sprintf("\n| Allocated Work: %v                       |", allocatedWork))
+	responseFile.WriteString(fmt.Sprintf("\n| Remainder Work: %v                           |", leftoverWork))
+	responseFile.WriteString("\n|----------------- Time Taken ----------------|")
+	responseFile.WriteString(fmt.Sprintf("\n| Time Taken to process into frequency map:   |\n| %v                                 |", elapsedPostProcess))
+	responseFile.WriteString(fmt.Sprintf("\n| Time Taken to sort into table: %v  |", elapsedPostSort))
+	responseFile.WriteString(fmt.Sprintf("\n| Total Time Taken: %v               |", totalTime))
+	responseFile.WriteString(fmt.Sprintf("\n| Time Taken per word: %vms/word               |", timePerWord))
+	responseFile.WriteString("\n|---------------------------------------------|")
+	responseFile.WriteString("\n|------- Top Ten Results (- Stop Words)-------|")
+	responseFile.WriteString("\n|---------------------------------------------|")
+
+	numberOfResults := 0
+	for i := 0; numberOfResults < 10; i++ {
+		_, exists := stopwords[finalTable[i].word]
+		if exists == true {
+		} else { // Start at 1
+			responseFile.WriteString(fmt.Sprintf("\n| %v : %v", finalTable[i].word, finalTable[i].frequency))
+			numberOfResults++
+		}
+	}
+	defer responseFile.Close()
+
+	/* ------------------------------------------------- */
+
+	/* ---------------- Screen Output ------------------ */
 
 	fmt.Printf("\n|---------------------------------------------|")
 	fmt.Printf("\n|----------------- Completed! ----------------|")
@@ -609,12 +645,12 @@ func parseManager(body string, keyword string) {
 	fmt.Printf("\n| Time Taken to process into frequency map:   |\n| %v                                 |", elapsedPostProcess)
 	fmt.Printf("\n| Time Taken to sort into table: %v  |", elapsedPostSort)
 	fmt.Printf("\n| Total Time Taken: %v               |", totalTime)
-	//fmt.Printf("\n| Time Taken per word: %v               |", timePerWord)
+	fmt.Printf("\n| Time Taken per word: %v ms/word              |", timePerWord)
 	fmt.Printf("\n|---------------------------------------------|")
 	fmt.Printf("\n|------- Top Ten Results (- Stop Words)-------|")
 	fmt.Printf("\n|---------------------------------------------|")
 
-	numberOfResults := 0
+	numberOfResults = 0
 	for i := 0; numberOfResults < 10; i++ {
 		_, exists := stopwords[finalTable[i].word]
 		if exists == true {

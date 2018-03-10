@@ -1,0 +1,113 @@
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: MxMaster                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 28130               |
+| Allocated Work: 9376                       |
+| Remainder Work: 2                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 3.122593ms                                 |
+| Time Taken to sort into table: 20.752742ms  |
+| Total Time Taken: 23.875335ms               |
+| Time Taken per word: 848.7499111269108ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| amazon : 398
+| logitech : 382
+| images : 369
+| ref : 326
+| master : 319
+| mx : 300
+| mouse : 242
+| wireless : 198
+| en : 176
+| gb : 167
+
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: PS4                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 154806               |
+| Allocated Work: 51602                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 8.387265ms                                 |
+| Time Taken to sort into table: 39.80478ms  |
+| Total Time Taken: 48.192045ms               |
+| Time Taken per word: 311.3060540289136ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| ps4 : 2968
+| playstation : 2483
+| direct : 1311
+| games : 1297
+| icid : 1296
+| wiki : 1265
+| tnav_tl : 1240
+| en : 1214
+| 4 : 1200
+| cat : 1173
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: MacBook                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 169914               |
+| Allocated Work: 56638                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 9.084186ms                                 |
+| Time Taken to sort into table: 11.889278ms  |
+| Total Time Taken: 20.973464ms               |
+| Time Taken per word: 123.43576162058453ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 3415
+| uk : 3352
+| apple : 2305
+| wiki : 1830
+| 2 : 1187
+| pro : 1112
+| 1 : 997
+| inch : 772
+| 13 : 759
+| 3 : 724
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: Logitech                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 83350               |
+| Allocated Work: 27783                       |
+| Remainder Work: 1                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 4.719208ms                                 |
+| Time Taken to sort into table: 6.067245ms  |
+| Total Time Taken: 10.786453ms               |
+| Time Taken per word: 0.0077272853272526195ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| logitech : 3037
+| uk : 785
+| amazon : 650
+| ref : 592
+| images : 564
+| drivers : 553
+| watch : 552
+| v : 544
+| download : 542
+| mouse : 539
