@@ -1,5 +1,5 @@
 // Calum Bell - 24016526 - Computer Science - 21/11/17
-// Subtask One - PiOnTheDartboard (The Monte Carlo Problem)
+// CAPS Final Subtask - Text Processing in GoLang
 
 package main
 
@@ -35,6 +35,16 @@ type Keyword struct {
 
 // Stopwords to ignore during output sourced from - https://github.com/bbalet/stopwords
 var stopwords = map[string]string{
+	"1":            "",
+	"2":            "",
+	"3":            "",
+	"4":            "",
+	"5":            "",
+	"6":            "",
+	"7":            "",
+	"8":            "",
+	"9":            "",
+	"ebay":         "",
 	"a":            "",
 	"about":        "",
 	"above":        "",
@@ -351,6 +361,7 @@ var stopwords = map[string]string{
 	"why":          "",
 	"will":         "",
 	"with":         "",
+	"wiki":         "",
 	"within":       "",
 	"without":      "",
 	"would":        "",
@@ -462,7 +473,7 @@ func parseManager(body string, keyword string) {
 	re := regexp.MustCompile("\\w+")              // * Define a regex expression to remove whitespace and punctuation
 	textArray := re.FindAllString(textString, -1) // Take all valid words from the string and put them in textArray
 
-	const noParsers = 3        // Number of threads, can be dynamic
+	const noParsers = 1        // Number of threads, can be dynamic
 	workToDo := len(textArray) // Find out how many words we need to process
 	var allocatedWork = workToDo / noParsers
 	var leftoverWork = workToDo % noParsers
@@ -485,7 +496,7 @@ func parseManager(body string, keyword string) {
 	/* ----- Get User Input & Print Information ----- */
 
 	fmt.Printf("\nparseManager was born!")
-	fmt.Printf("\nparseManager recieved %v words related to %v\n", workToDo, keyword)
+	fmt.Printf("\nparseManager recieved %v chars related to %v\n", workToDo, keyword)
 	fmt.Printf("\nDo you want to see the raw response? Y/N\n\n")
 	fmt.Scanln(&seeRawResponse) // Read from the console
 
@@ -504,7 +515,7 @@ func parseManager(body string, keyword string) {
 
 	/* ---------------------------------------------- */
 
-	/* ----- Generate Channels, Parsers and assign wo ----- */
+	/* ----- Generate Channels, Parsers and assign work --- */
 	/* Generate and send each parser their section of work */
 
 	/* Calculate Time */
@@ -547,20 +558,6 @@ func parseManager(body string, keyword string) {
 				}
 				count += 1
 			}
-		case newMap := <-outputChannels[1]:
-			{ // Listen on the second channel
-				for k, v := range newMap {
-					finalMap[k] += v
-				}
-				count += 1
-			}
-		case newMap := <-outputChannels[2]:
-			{ // Listen on the third channel
-				for k, v := range newMap {
-					finalMap[k] += v
-				}
-				count += 1
-			}
 		}
 	}
 
@@ -582,7 +579,7 @@ func parseManager(body string, keyword string) {
 		return finalTable[i].frequency > finalTable[j].frequency
 	})
 
-	// Print raw table
+	//         Print Raw Table
 	// for _, word := range finalTable {
 	// 	fmt.Printf("%s, %d\n", word.word, word.frequency)
 	// }
@@ -594,6 +591,8 @@ func parseManager(body string, keyword string) {
 	totalTime := elapsedPostSort + elapsedPostProcess
 	var timePerWord float64
 	timePerWord = float64(workToDo) / float64(totalTime)
+	var wordsPerSecond float64
+	wordsPerSecond = float64(totalTime) / float64(workToDo)
 
 	/* ---------------- File Output ------------------ */
 
@@ -637,15 +636,16 @@ func parseManager(body string, keyword string) {
 	fmt.Printf("\n|---------------------------------------------|")
 	fmt.Printf("\n| Search Term: %v                    |", keyword)
 	fmt.Printf("\n|---------------------------------------------|")
-	fmt.Printf("\n| Number of Parsers: %v                        |", noParsers)
-	fmt.Printf("\n| Total Work to Complete: %v               |", workToDo)
-	fmt.Printf("\n| Allocated Work: %v                       |", allocatedWork)
-	fmt.Printf("\n| Remainder Work: %v                           |", leftoverWork)
+	fmt.Printf("\n| Number of Parsers: %v                        ", noParsers)
+	fmt.Printf("\n| Total Work to Complete: %v               ", workToDo)
+	fmt.Printf("\n| Allocated Work: %v                       ", allocatedWork)
+	fmt.Printf("\n| Remainder Work: %v                           ", leftoverWork)
 	fmt.Printf("\n|----------------- Time Taken ----------------|")
-	fmt.Printf("\n| Time Taken to process into frequency map:   |\n| %v                                 |", elapsedPostProcess)
-	fmt.Printf("\n| Time Taken to sort into table: %v  |", elapsedPostSort)
-	fmt.Printf("\n| Total Time Taken: %v               |", totalTime)
-	fmt.Printf("\n| Time Taken per word: %v ms/word              |", timePerWord)
+	fmt.Printf("\n| Time Taken to process into frequency map:   \n| %v                                 |", elapsedPostProcess)
+	fmt.Printf("\n| Time Taken to sort into table: %v  ", elapsedPostSort)
+	fmt.Printf("\n| Total Time Taken: %v               ", totalTime)
+	// fmt.Printf("\n| Time Taken per word: %v ms/word              ", timePerWord)
+	fmt.Printf("\n| Words per second: %v word/sec             ", wordsPerSecond)
 	fmt.Printf("\n|---------------------------------------------|")
 	fmt.Printf("\n|------- Top Ten Results (- Stop Words)-------|")
 	fmt.Printf("\n|---------------------------------------------|")

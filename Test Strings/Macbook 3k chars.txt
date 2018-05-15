@@ -1,0 +1,336 @@
+* Open MenuClose Menu
+ * Apple [/uk/]
+ * Shopping Bag [/uk/shop/goto/bag]
+
+ * Apple [/uk/]
+ * Mac [/uk/mac/]
+ * iPad [/uk/ipad/]
+ * iPhone [/uk/iphone/]
+ * Watch [/uk/watch/]
+ * TV [/uk/tv/]
+ * Music [/uk/music/]
+ * Support [https://support.apple.com/en-gb]
+ * Search apple.com [/uk/search]
+ * Shopping Bag [/uk/shop/goto/bag]
+
+MACBOOK PRO [/UK/MACBOOK-PRO/]
+Open Menu Close Menu  * Overview
+ * macOS [/uk/macbook-pro/macos/]
+ * Tech Specs [/uk/macbook-pro/specs/]
+
+Buy MacBook Pro [/uk/shop/goto/macbook_pro/select]MACBOOK PROA TOUCH OF GENIUS.
+Watch the design film
+[https://images.apple.com/media/uk/macbook-pro/2016/b4a9efaa_6fe5_4075_a9d0_8e4592d6146c/films/design/macbook-pro-design-tft-cc-uk-20161026_1536x640h.mp4] 
+It’s razor thin, feather light, and even faster and more powerful than before. It has the brightest, most colourful Mac notebook
+display ever. And it features the Touch Bar — a Multi-Touch–enabled strip of glass built into the keyboard for instant access to
+the tools you want, just when you want them. MacBook Pro is built on groundbreaking ideas. And it’s ready for yours.
+
+Up to 4.1GHz
+Turbo Boost 500-nit
+Retina display Up to 10 hours
+of battery life113-inch model1.37 kg 14.9mm15-inch model1.83 kg 15.5mmTOUCH BAR AND TOUCH ID A REVOLUTIONARY NEW WAY TO USE YOUR MAC.
+The Touch Bar replaces the function keys that have long occupied the top of your keyboard with something much more versatile and
+capable.2 It changes automatically based on what you’re doing to show you relevant tools you already know how to use — system
+controls like volume and brightness, interactive ways to adjust or browse through content, intelligent typing features like emoji
+and predictive text, and more. And now Touch ID is available on a Mac, enabling instant access to logins and fast, secure online
+purchases with Apple Pay.
+
+ * Photos 
+ * 
+ * Final Cut Pro 
+ * 
+ * Mail 
+ * 
+ * Safari 
+ * 
+ * Keynote 
+ * 
+ * Customisation 
+
+Select a photo from your library, rotate images and add a filter.
+
+Navigate through your project with an interactive display of your entire timeline.
+
+Pick from your favourite emoji to add the perfect feeling to any email. Or type a message faster with predictive text.
+
+Breeze through your open Safari tabs or touch a Favorite to view a saved site.
+
+Adjust the colour of text and move through thumbnails in full screen.
+
+In some apps, you can customise the Touch Bar with the commands that work best for you.
+
+EVEN MORE WAYS THE TOUCH BAR GIVES YOU QUICK ACCESS TO COMMANDS.
+Expand, contract and customise system controls to reveal volume, brightness and more.
+
+Answer your iPhone or a FaceTime call from the keyboard without moving your cursor.
+
+Select a palette and tap to choose a colour for text or objects in Pages, Keynote and more.
+
+Get quick access to text suggestions and emoji in apps like Messages and Mail.
+
+Access the function keys by holding down the Fn key on the keyboard.
+
+TOUCH ID ARRIVES ON MAC.
+Now you can unlock your Mac in an instant. Use Apple Pay to make secure online purchases. Quickly access system settings and
+locked notes. And even switch between users — all with the touch of a finger.
+
+YOUR FAVOURITE APPS. NOW WITH TOUCH BAR.
+The Touch Bar can change how you experience the apps you use every day — like Photoshop, Microsoft Office, DaVinci Resolve, Logic
+Pro X and others. Key tools and features appear on the Touch Bar, so they’re easier to discover and use. It’s a dynamic canvas
+that developers can use to add a new dimension of interactivity to current and future apps.
+
+ * Photoshop 
+ * 
+ * Microsoft Office 
+ * 
+ * DaVinci Resolve 
+ * 
+ * Logic Pro X 
+
+Adjust your layers, pick a hue, control brush size and so much more.
+
+Create and edit documents in Microsoft Word, Excel and PowerPoint.
+
+Edit, colour correct, add effects and deliver projects from start to finish.
+
+Jump to a location, fine-tune sounds, or turn your Touch Bar into a drum or piano.
+
+PERFORMANCE SPEED-OF-THE-ART.
+MacBook Pro elevates the notebook to a whole new level of performance and portability. Wherever your ideas take you, you’ll get
+there faster than ever with cutting-edge graphics, high-performance processors, super-smart storage and more.
+
+Up to 4.1GHz
+Turbo Boost3.2GB/s Up to 3.2GB/s
+SSD read speeds Up to 10 hours
+of battery life1EYE-OPENING GRAPHICS PERFORMANCE.
+The 15-inch MacBook Pro features a powerful Radeon Pro discrete GPU in every configuration. Manufactured with a 14nm process,
+Radeon Pro graphics combine outstanding power with outstanding power efficiency. And now 4GB of GDDR5 memory comes as standard on
+the top configuration, giving you fluid, real-time performance for pro tasks like rendering 3D titles in Final Cut Pro X. Every
+13-inch model features powerful integrated graphics with 64MB of embedded DRAM, which accelerates graphics tasks. That means more
+time for what matters most — creating amazing work.
+
+ * Video Editing
+ * 
+ * 3D Graphics
+ * 
+ * Gaming
+
+Edit multicam projects in Final Cut Pro X with up to three streams of full-resolution 4K video on the 15-inch MacBook Pro.3
+Experience smooth real-time performance when rendering 3D models in Autodesk Maya 2017.Play a graphics-intensive game like Grid 2
+Reloaded Edition and enjoy responsive performance, satisfying playability and vivid detail.SPEEDY SSD STORAGE. EVERYTHING IN A
+SNAP.
+MacBook Pro includes a solid-state drive that’s incredibly fast, with sequential read speeds up to 3.2GB/s. The 15-inch model is
+available with up to a 2TB SSD — enough space to take even your biggest projects with you, without having to take an external
+drive. And its memory is both high speed and power efficient. It all works together to help you boot up, launch multiple apps or
+import huge files in a flash.
+
+PROCESSORS THAT PROVIDE INCREDIBLE POWER. AND USE INCREDIBLY LITTLE.
+With seventh-generation Intel Core processors, MacBook Pro delivers amazing performance, with Turbo Boost frequencies up to
+4.1GHz. So you can move fast — even when powering through pro-level processing jobs like rendering 3D models and encoding video.
+At the same time, it can conserve energy when taking on lighter tasks, like browsing the web and checking email. And 10-bit HEVC
+hardware acceleration comes as standard on MacBook Pro, which will let you take even more advantage of the boosts in 4K video
+compression and streaming performance in macOS High Sierra.
+
+SSD PERFORMANCE
+13-INCH MACBOOK PRO
+3.2GB/s Up to 3.2GB/s sequential read speed42.2GB/s Up to 2.2GB/s sequential write speed415-INCH MACBOOK PRO
+3.2GB/s Up to 3.2GB/s sequential read speed52.2GB/s Up to 2.2GB/s sequential write speed5PROCESSORS THAT PROVIDE INCREDIBLE POWER.
+AND USE INCREDIBLY LITTLE.
+With seventh-generation Intel Core processors, MacBook Pro delivers amazing performance, with Turbo Boost frequencies up to
+4.1GHz. So you can move fast — even when powering through pro-level processing jobs like rendering 3D models and encoding video.
+At the same time, it can conserve energy when taking on lighter tasks, like browsing the web and checking email. And 10-bit HEVC
+hardware acceleration comes as standard on MacBook Pro, which will let you take even more advantage of the boosts in 4K video
+compression and streaming performance coming in macOS High Sierra.
+
+PROCESSOR PERFORMANCE
+13-INCH MACBOOK PRO
+3.5GHz Up to 3.5GHz dual-core Intel Core i7 processor4.0GHz Up to 4.0GHz Turbo Boost processing15-INCH MACBOOK PRO
+3.1GHz Up to 3.1GHz quad-core Intel Core i7 processor4.1GHz Up to 4.1GHz Turbo Boost processingIMPRESSIVE ALL-DAY BATTERY LIFE.
+MacBook Pro packs more performance into a thin design, yet still provides all-day battery life — up to 10 hours for both the
+13-inch and 15-inch models.1 So you’re free to keep watching, gaming and editing from wherever you are.
+
+13-INCH AND 15-INCH MACBOOK PRO
+10 hrs Up to 10 hours iTunes film playback and web surfingTHE COOLEST THING YOU’LL NEVER SEE.
+The thinner the notebook, the less space for cooling. So MacBook Pro incorporates innovations throughout the system that
+efficiently eliminate heat — increasing airflow during intensive tasks like editing video, playing graphics-heavy games and
+transferring huge files.
+
+13-inch model with Touch Bar Replay
+
+On the 15-inch MacBook Pro, an innovative split blade design allows for more blades and delivers increased airflow. The
+asymmetrical layout of the fan blades reduces noise.
+
+Split blade fan design
+
+RETINA DISPLAY THE BRIGHTEST, MOST COLOURFUL MAC NOTEBOOK DISPLAY EVER.
+The display in the MacBook Pro is the best ever in a Mac notebook. It features bright LED backlighting and a high contrast ratio,
+delivering deep blacks and bright whites. Its large pixel aperture and variable refresh rate make it power efficient. And it
+supports wide colour for even more vibrant greens and reds than with sRGB. This makes for more true-to-life pictures with
+realistically vivid details — essential for graphic design, colour grading and editing.
+
+500 nits
+brightness 25% more colours
+than sRGB High contrast
+ratioMacBook Pro features P3 colour, which makes 25 per cent more colours available than standard RGB — revealing a much broader
+range of greens and reds.
+
+AUDIO SPEAKERS THAT SPEAK FOR THEMSELVES. LOUDLY.
+13-inch model with Touch Bar Replay
+
+Enjoy beautifully balanced, high-fidelity sound that takes listening to new levels with wide dynamic range and more bass for
+maximum boom. The speakers are connected directly to system power, enabling greater peak amplification. So they make MacBook Pro
+the perfect choice for mixing a track on the fly, editing video on location or enjoying a film on the go.
+
+KEYBOARD AND TRACKPAD MORE RESPONSIVE KEYBOARD. MORE EXPANSIVE TRACKPAD.
+Interacting with MacBook Pro is a smooth experience all round. The keyboard features our second-generation butterfly mechanism —
+providing four times more key stability than a traditional scissor mechanism, along with greater comfort and responsiveness. And
+the spacious Force Touch trackpad gives your fingers plenty of room to gesture and click.
+
+ * 
+ * 
+
+15-INCH MODEL WITH TOUCH BAR
+13-INCH MODEL WITH TOUCH BAR
+13-INCH MODEL
+ * 
+ * 
+ * 
+
+THUNDERBOLT 3 OUR MOST POWERFUL
+AND VERSATILE PORT EVER.
+Thunderbolt 3 combines ultra-high bandwidth with the ultra-versatility of the USB-C industry standard to create one revved-up
+universal port. It integrates data transfer, charging and video output in a single connector, delivering up to 40Gb/s of
+throughput for twice the bandwidth of Thunderbolt 2. Both sizes of MacBook Pro are available with four ports, so you can do all
+that from either side. Existing devices are easily connected with a cable or adapter. And Thunderbolt 3 is reversible, so no
+matter how you plug in, it’s always the right way up.
+
+Learn more about Thunderbolt 3 [/uk/thunderbolt/]
+
+Up to 40Gb/s data transfer Supports up to two 5K displays Charge and provide power from any port Up to four Thunderbolt 3 ports
+Simultaneously connect two 5K displays and two RAID systems to a 15-inch MacBook Pro with four Thunderbolt 3 ports to create a
+powerful workstation.
+
+5K display5K displayRAID systemRAID system15-inch MacBook ProMACOS IT’S WHY THERE’S NOTHING ELSE LIKE A MAC.
+macOS is the operating system that powers every Mac. It’s engineered to take full advantage of the hardware and designed to be as
+easy to use as it is beautiful to look at. macOS includes an amazing collection of apps you’ll use — and love — every day. It also
+features iCloud and other innovative ways for your Mac, iOS devices and Apple Watch to work together.
+
+Learn more about macOS [/uk/macbook-pro/macos/]
+
+Get more done on your Mac just by asking Siri.6 Work seamlessly between all your Apple devices. Store files in iCloud
+automatically and access them on any device.7APPLE FOOTER
+MEET THE MACBOOK PRO LINEUP. Compare Mac models [/uk/mac/compare/]13-INCH * 2.3GHz dual-core seventh-generation Intel Core i5
+processor * Turbo Boost up to 3.6GHz * 128GB PCIe-based SSD * 8GB of 2133MHz memory * Intel Iris Plus Graphics 640 * Force Touch
+trackpad * Two Thunderbolt 3 ports Buy [/uk/shop/goto/macbook_pro/13_inch]13-INCH WITH TOUCH BAR AND TOUCH ID * 3.1GHz dual-core
+seventh-generation Intel Core i5 processor * Turbo Boost up to 3.5GHz * 256GB PCIe-based SSD * 8GB of 2133MHz memory * Intel Iris
+Plus Graphics 650 * Force Touch trackpad * Four Thunderbolt 3 ports Buy [/uk/shop/goto/macbook_pro/13_inch]15-INCH WITH TOUCH BAR
+AND TOUCH ID * 2.8GHz quad-core seventh-generation Intel Core i7 processor * Turbo Boost up to 3.8GHz * 256GB PCIe-based SSD *
+16GB of 2133MHz memory * Radeon Pro 555 with 2GB of memory * Force Touch trackpad * Four Thunderbolt 3 ports Buy
+[/uk/shop/goto/macbook_pro/15_inch]FREE NEXT-DAY DELIVERY.
+On all in-stock items ordered by 7:00 pm.
+
+Learn more [/uk/shop/goto/shipping_and_returns]VISIT AN APPLE STORE
+See Apple products in person at the Apple Store and have all your questions answered.
+
+
+
+Find a store [/uk/retail/]FINANCING
+Monthly payment options available.
+
+Learn more [/uk/shop/goto/payment_plan]GET HELP BUYING
+Have a question? Call a Specialist or chat online.
+
+Call 0800 048 0408.
+
+Chat now [/uk/shop/goto/chat/start?pg=COM:macbook-pro&ap=COM] 1. Testing conducted by Apple in May 2017 using pre-production
+    2.3GHz dual-core Intel Core i5–based 13-inch MacBook Pro systems with a 1TB SSD and 8GB of RAM; pre-production 3.1GHz
+    dual-core Intel Core i5–based 13-inch MacBook Pro systems with a 512GB SSD and 8GB of RAM; and pre-production 2.8GHz quad-core
+    Intel Core i7–based 15-inch MacBook Pro systems with a 256GB SSD and 16GB of RAM. The wireless web test measures battery life
+    by wirelessly browsing 25 popular websites with display brightness set to 12 clicks from bottom or 75%. The iTunes film
+    playback test measures battery life by playing back HD 1080p content with display brightness set to 12 clicks from bottom or
+    75%. The standby test measures battery life by allowing a system, connected to a wireless network and signed in to an iCloud
+    account, to enter standby mode with Safari and Mail applications launched and all system settings left at default. Battery
+    life varies by use and configuration. See www.apple.com/uk/batteries [/uk/batteries/] for more information.
+ 2. Available on selected models.
+ 3. Testing conducted by Apple in May 2017 using pre-production
+    3.1GHz quad-core Intel Core i7-based 15-inch MacBook Pro systems with a 2TB SSD and 16GB of RAM. Tested with pre-release Final
+    Cut Pro 10.3.4 using a 5-minute Multicam clip with three streams of 4K 4096x2160 30p media. MacBook Pro continuously monitors
+    system thermal and power conditions, and may adjust performance as needed to maintain optimal system operation.
+ 4. Testing conducted by Apple in May 2017 using pre-production
+    3.5GHz dual-core Intel Core i7-based 13-inch MacBook Pro systems and pre-production 2.5GHz dual-core Intel Core i7-based
+    13-inch MacBook Pro systems. All systems configured with a 512GB SSD and 16GB of RAM. Tested with FIO-2.19, 1024KB request
+    size, 150GB test file and IO depth=8. MacBook Pro continuously monitors system thermal and power conditions, and may adjust
+    performance as needed to maintain optimal system operation.
+ 5. Testing conducted by Apple in May 2017 using pre-production
+    3.1GHz quad-core Intel Core i7-based 15-inch MacBook Pro systems with a 2TB SSD and 16GB of RAM. Tested with FIO-2.19, 1024KB
+    request size, 150GB test file and IO depth=8. MacBook Pro continuously monitors system thermal and power conditions, and may
+    adjust performance as needed to maintain optimal system operation.
+ 6. Siri may not be available in all languages or in all areas, and
+    features may vary by area.
+ 7. iCloud requires an iCloud-enabled device. Some features require
+    iOS 11 and macOS High Sierra. Some features require a Wi‑Fi connection. Some features are not available in all countries or
+    regions. Access to some services is limited to 10 devices.
+
+ * Content is sold separately. Title availability is subject to change.
+
+Apple [/uk/] 1. Mac [/uk/mac/]
+ 2. MacBook Pro
+
+SHOP AND LEARN
+Open MenuClose Menu * Mac [/uk/mac/]
+ * iPad [/uk/ipad/]
+ * iPhone [/uk/iphone/]
+ * Watch [/uk/watch/]
+ * TV [/uk/tv/]
+ * Music [/uk/music/]
+ * iTunes [/uk/itunes/]
+ * HomePod [/uk/homepod/]
+ * iPod touch [/uk/ipod-touch/]
+ * Accessories [/uk/shop/goto/buy_accessories]
+ * Gift Cards [/uk/shop/goto/giftcards]
+
+APPLE STORE
+Open MenuClose Menu * Find a Store [/uk/retail/]
+ * Genius Bar [/uk/retail/geniusbar/]
+ * Today at Apple [/uk/today/]
+ * Apple Summer Camp [/uk/retail/camp/]
+ * Field Trip [/uk/retail/fieldtrip/]
+ * Apple Store App
+ * Refurbished and Clearance [/uk/shop/goto/special_deals]
+ * Financing [/uk/shop/goto/ww/financing]
+ * Reuse and Recycling [/uk/shop/goto/reuse_and_recycle]
+ * Order Status [/uk/shop/goto/account]
+ * Shopping Help [/uk/shop/goto/help]
+
+FOR EDUCATION
+Open MenuClose Menu * Apple and Education [/uk/education/]
+ * Shop for University [/uk/shop/goto/educationrouting]
+
+FOR BUSINESS
+Open MenuClose Menu * Apple and Business [/uk/business/]
+ * Shop for Business [/uk/retail/business/]
+
+ACCOUNT
+Open MenuClose Menu * Manage Your Apple ID [https://appleid.apple.com/uk/]
+ * Apple Store Account [/uk/shop/goto/account]
+ * iCloud.com [https://www.icloud.com]
+
+APPLE VALUES
+Open MenuClose Menu * Accessibility [/uk/accessibility/]
+ * Environment [/uk/environment/]
+ * Privacy [/uk/privacy/]
+ * Supplier Responsibility [/uk/supplier-responsibility/]
+
+ABOUT APPLE
+Open MenuClose Menu * Newsroom [/uk/newsroom/]
+ * Apple Leadership [/uk/leadership/]
+ * Job Opportunities [/jobs/uk/]
+ * Warranty [/legal/warranty/statutoryrights.html]
+ * Investors [http://investor.apple.com]
+ * Events [/uk/apple-events/]
+ * Contact Apple [/uk/contact/]
+
+More ways to shop: visit an Apple Store [/uk/retail/], call 0800 048 0408 or find a retailer [https://locate.apple.com/uk/en/].UK
+[/choose-country-region/]Copyright © 2018 Apple Inc. All rights reserved.Privacy Policy [/uk/privacy/privacy-policy/]Use of
+Cookies [/legal/privacy/en-ww/cookies/]Terms of Use [/uk/legal/terms/site.html]Sales and Refunds
+[/uk/shop/goto/help/sales_refunds]Legal [/uk/legal/]Site Map [/uk/sitemap/]

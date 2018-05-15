@@ -111,3 +111,591 @@
 | v : 544
 | download : 542
 | mouse : 539
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: iphone                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 153381               |
+| Allocated Work: 51127                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 6.395241ms                                 |
+| Time Taken to sort into table: 7.726172ms  |
+| Total Time Taken: 14.121413ms               |
+| Time Taken per word: 0.010861590125577377ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| iphone : 1829
+| wiki : 1588
+| iphone : 1419
+| iphone : 1358
+| wiki : 890
+| uk : 880
+| apple : 798
+| apple : 791
+| apple : 679
+| 7 : 568
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: iphone                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 114464               |
+| Allocated Work: 38154                       |
+| Remainder Work: 2                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 4.70466ms                                 |
+| Time Taken to sort into table: 7.31644ms  |
+| Total Time Taken: 12.0211ms               |
+| Time Taken per word: 0.009521923950387236ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| iphone : 3169
+| wiki : 2478
+| apple : 1827
+| 7 : 645
+| uk : 544
+| att : 535
+| 8 : 531
+| 4 : 505
+| uswitch : 491
+| png : 479
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 108354               |
+| Allocated Work: 36118                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 7.28457ms                                 |
+| Time Taken to sort into table: 8.258262ms  |
+| Total Time Taken: 15.542832ms               |
+| Time Taken per word: 0.006971316424188333ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 2585
+| uk : 2131
+| apple : 1695
+| 1 : 748
+| ebay : 669
+| 2 : 652
+| 13 : 628
+| pro : 602
+| gbuk : 567
+| currys : 556
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 3008               |
+| Allocated Work: 1002                       |
+| Remainder Work: 2                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 323.861µs                                 |
+| Time Taken to sort into table: 465.397µs  |
+| Total Time Taken: 789.258µs               |
+| Time Taken per word: 0.0038111745462193606ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| uk : 75
+| pro : 56
+| macbook : 45
+| apple : 36
+| inch : 32
+| touch : 29
+| core : 26
+| shop : 23
+| mac : 19
+| goto : 19
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: SheffieldHallam                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 15059               |
+| Allocated Work: 5019                       |
+| Remainder Work: 2                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 1.010038ms                                 |
+| Time Taken to sort into table: 3.097823ms  |
+| Total Time Taken: 4.107861ms               |
+| Time Taken per word: 0.0036658981401756293ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| wiki : 616
+| uk : 289
+| sheffield : 173
+| uk_parliament_constituency : 122
+| hallam : 119
+| university : 110
+| international : 91
+| study : 87
+| business : 85
+| election : 82
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: Cappucino                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 35307               |
+| Allocated Work: 11769                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 3.749092ms                                 |
+| Time Taken to sort into table: 4.327761ms  |
+| Total Time Taken: 8.076853ms               |
+| Time Taken per word: 0.0043713807840751835ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| coffee : 504
+| cappuccino : 489
+| uk : 444
+| images : 292
+| amazon : 275
+| ref : 228
+| en : 220
+| 0 : 191
+| company : 190
+| cups : 175
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: CUDA                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 51615               |
+| Allocated Work: 17205                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 5.361122ms                                 |
+| Time Taken to sort into table: 6.080229ms  |
+| Total Time Taken: 11.441351ms               |
+| Time Taken per word: 0.0045112679437944ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| cuda : 1236
+| nvidia : 906
+| uk : 712
+| geforce : 706
+| bikes : 350
+| ref : 312
+| images : 310
+| amazon : 290
+| gtx : 286
+| 8795902 : 275
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: GoLang                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 60438               |
+| Allocated Work: 20146                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 6.080628ms                                 |
+| Time Taken to sort into table: 6.810537ms  |
+| Total Time Taken: 12.891165ms               |
+| Time Taken per word: 0.0046883272380735174ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| go1 : 1167
+| golang : 988
+| google : 703
+| gz : 650
+| tar : 650
+| dl : 556
+| windows : 523
+| amd64 : 509
+| linux : 469
+| x86 : 430
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: Sheffield                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 116159               |
+| Allocated Work: 38719                       |
+| Remainder Work: 2                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 8.71832ms                                 |
+| Time Taken to sort into table: 11.120786ms  |
+| Total Time Taken: 19.839106ms               |
+| Time Taken per word: 0.005855052137934038ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| sheffield : 2760
+| uk : 1467
+| gaabagqsagyvuboqbagqigdw : 684
+| aabagqijaqmxqjmiqkqieda4pkbagqieegiglxezuisiecagmhzawqieccqedb4izqfjecaaagd5wciecbaicfg8bi1c0maaaecbs8pecbagebcwoalahasaaecbayehybagacbhidbs9qsjaecbagypd9agaabagkbg5eowugcbagqmhh : 646
+| city : 556
+| news : 540
+| university : 507
+| org : 482
+| en : 405
+| business : 393
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: NVIDIA                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 143580               |
+| Allocated Work: 47860                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 9.076488ms                                 |
+| Time Taken to sort into table: 12.288759ms  |
+| Total Time Taken: 21.365247ms               |
+| Time Taken per word: 0.00672025930708875ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| nvidia : 2851
+| geforce : 2723
+| uk : 2140
+| gtx : 1670
+| products : 1467
+| graphics : 1336
+| gpu : 1027
+| card : 1011
+| scan : 910
+| overclockers : 780
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: Logitech                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 44686               |
+| Allocated Work: 14895                       |
+| Remainder Work: 1                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 2.720755ms                                 |
+| Time Taken to sort into table: 3.406558ms  |
+| Total Time Taken: 6.127313ms               |
+| Time Taken per word: 0.007292919424876777ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| logitech : 1826
+| uk : 555
+| drivers : 531
+| amazon : 506
+| mouse : 497
+| images : 434
+| ref : 430
+| headset : 272
+| free : 251
+| download : 246
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: Cappucino                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 61336               |
+| Allocated Work: 20445                       |
+| Remainder Work: 1                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 7.08515ms                                 |
+| Time Taken to sort into table: 9.489366ms  |
+| Total Time Taken: 16.574516ms               |
+| Time Taken per word: 0.0037006208808751944ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| coffee : 874
+| cappuccino : 795
+| uk : 785
+| ref : 596
+| amazon : 567
+| images : 561
+| espresso : 534
+| machine : 380
+| gp : 336
+| 1901317 : 332
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: iphone                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 45712               |
+| Allocated Work: 15237                       |
+| Remainder Work: 1                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 8.333892ms                                 |
+| Time Taken to sort into table: 11.077979ms  |
+| Total Time Taken: 19.411871ms               |
+| Time Taken per word: 0.0023548477114854103ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| iphone : 1241
+| apple : 774
+| retrieved : 327
+| org : 229
+| 0 : 197
+| wikipedia : 196
+| uk : 174
+| 2008 : 159
+| 2017 : 157
+| ios : 149
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 4                        |
+| Total Work to Complete: 31285               |
+| Allocated Work: 7821                       |
+| Remainder Work: 1                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 2.750151ms                                 |
+| Time Taken to sort into table: 3.372307ms  |
+| Total Time Taken: 6.122458ms               |
+| Time Taken per word: 0.0051098758047829805ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 823
+| uk : 799
+| apple : 417
+| currys : 242
+| amazon : 215
+| gbuk : 214
+| 12 : 204
+| ref : 203
+| 0 : 203
+| pro : 200
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 5                        |
+| Total Work to Complete: 31280               |
+| Allocated Work: 6256                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 1.568398ms                                 |
+| Time Taken to sort into table: 2.17926ms  |
+| Total Time Taken: 3.747658ms               |
+| Time Taken per word: 0.008346546029546986ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 824
+| uk : 799
+| apple : 419
+| currys : 242
+| amazon : 214
+| gbuk : 214
+| 12 : 205
+| 0 : 204
+| ref : 202
+| i : 197
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 6                        |
+| Total Work to Complete: 30423               |
+| Allocated Work: 5070                       |
+| Remainder Work: 3                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 1.538002ms                                 |
+| Time Taken to sort into table: 1.939124ms  |
+| Total Time Taken: 3.477126ms               |
+| Time Taken per word: 0.008749467232421258ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 802
+| uk : 784
+| apple : 410
+| currys : 242
+| gbuk : 214
+| ref : 203
+| 0 : 201
+| pro : 200
+| 12 : 197
+| i : 197
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 7                        |
+| Total Work to Complete: 31238               |
+| Allocated Work: 4462                       |
+| Remainder Work: 4                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 3.068008ms                                 |
+| Time Taken to sort into table: 3.670758ms  |
+| Total Time Taken: 6.738766ms               |
+| Time Taken per word: 0.00463556680852251ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 822
+| uk : 799
+| apple : 420
+| currys : 242
+| amazon : 214
+| gbuk : 214
+| 12 : 208
+| pro : 204
+| ref : 203
+| i : 197
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 8                        |
+| Total Work to Complete: 31095               |
+| Allocated Work: 3886                       |
+| Remainder Work: 7                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 2.194735ms                                 |
+| Time Taken to sort into table: 2.792345ms  |
+| Total Time Taken: 4.98708ms               |
+| Time Taken per word: 0.00623511152818884ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 819
+| uk : 796
+| apple : 409
+| currys : 242
+| amazon : 215
+| gbuk : 214
+| 0 : 203
+| ref : 203
+| pro : 199
+| 13 : 198
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 3                        |
+| Total Work to Complete: 31147               |
+| Allocated Work: 10382                       |
+| Remainder Work: 1                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 2.766517ms                                 |
+| Time Taken to sort into table: 3.194747ms  |
+| Total Time Taken: 5.961264ms               |
+| Time Taken per word: 0.005224898612106426ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 823
+| uk : 798
+| apple : 413
+| currys : 242
+| gbuk : 214
+| amazon : 213
+| 12 : 207
+| 0 : 203
+| ref : 202
+| pro : 199
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 2                        |
+| Total Work to Complete: 30434               |
+| Allocated Work: 15217                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 1.486898ms                                 |
+| Time Taken to sort into table: 4.25413ms  |
+| Total Time Taken: 5.741028ms               |
+| Time Taken per word: 0.00530114118934797ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 805
+| uk : 785
+| apple : 414
+| currys : 242
+| gbuk : 214
+| 12 : 213
+| 0 : 203
+| ref : 202
+| i : 197
+| pro : 195
+|---------------------------------------------|
+|----------------- Completed! ----------------|
+|---------------------------------------------|
+| Search Term: macbook                    |
+|---------------------------------------------|
+| Number of Parsers: 1                        |
+| Total Work to Complete: 31248               |
+| Allocated Work: 31248                       |
+| Remainder Work: 0                           |
+|----------------- Time Taken ----------------|
+| Time Taken to process into frequency map:   |
+| 7.15128ms                                 |
+| Time Taken to sort into table: 7.748779ms  |
+| Total Time Taken: 14.900059ms               |
+| Time Taken per word: 0.0020971729038119914ms/word               |
+|---------------------------------------------|
+|------- Top Ten Results (- Stop Words)-------|
+|---------------------------------------------|
+| macbook : 822
+| uk : 798
+| apple : 417
+| currys : 242
+| gbuk : 214
+| amazon : 211
+| 12 : 207
+| pro : 205
+| 0 : 203
+| ref : 203
