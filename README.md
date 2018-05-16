@@ -2,7 +2,7 @@
 
 Implemented in GoLang, this application is used to utilise concurrency to increase the speedup of keyword density analysis on large strings between **50k - 500k** words long.
 
-Compared to a basic sequential implementation in C++, this application runs **500x faster** on a dataset of 70k words on an intel i5 3.3GHz CPU.
+Compared to a basic sequential implementation in C++, this application runs **50x faster** on a dataset of 70k words on an intel i5 3.3GHz CPU.
 
 ## About
 
